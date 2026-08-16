@@ -1,0 +1,4 @@
+anthropic>=0.39.0
+# mcp 2.0 renamed streamablehttp_client -> streamable_http_client and dropped its
+# headers= parameter, which connections.py relies on. Pin to the 1.x API.
+mcp>=1.1.0,<2
