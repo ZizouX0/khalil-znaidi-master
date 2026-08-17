@@ -12,17 +12,19 @@ Before the list, one thing that shapes all of it:
 
 ### 1. FH Kufstein Tirol — MA Digital Marketing (Austria)
 
-**≈€1,453/year · English · Deadline 3 March**
+**€726.72/year · English · Deadline 3 March**
 
 The best single find in this project, and it came from an unexpected direction.
 
 Austrian applied-sciences law (*Fachhochschul-Gesetz* §4(4)) defines master's entry as a relevant bachelor's **or an equivalent foreign qualification** — and contains **no 180-credit rule at all.** It explicitly lets a programme director admit someone whose equivalence is partial and settle the gap with exams *during* the master's. The only number published is *"at least 30 ECTS"* in business subjects, which your Licence in Marketing clears several times over.
 
-Then: fees identical to what Austrians pay, teaching entirely in English, a **12-month job-search permit** afterwards, and a **Red-White-Red Card with no points system and no labour-market test** — which matters enormously when your GPA is modest, because nothing scores you.
+Then: **€363.36 per semester — €726.72 a year**, the same rate Austrians pay, plus about €25/semester for the student union. Teaching entirely in English. A **12-month job-search permit** afterwards, and a **Red-White-Red Card with no points system and no labour-market test** — which matters enormously when your GPA is modest, because nothing scores you.
 
-**Best feature:** English B2 may be satisfiable with a **medium-of-instruction letter rather than IELTS**. Confirm this for your case — your degree was taught in French and Arabic, so it may not apply, but if it does, your single biggest obstacle disappears.
+**Best feature:** Kufstein is the **only Austrian institution** that accepts a medium-of-instruction letter in place of an English certificate.
 
-**Risk:** nobody has swept the rest of the Austrian FH sector. There may be better. Also confirm the fee: one source says €726.72 per *semester* (€1,453/year), another says per *year*. Assume the higher figure.
+**And its sister programme may be the better one.** FH Kufstein also runs an **MA Data Science & Intelligent Analytics** at the same fee and under the same entry regime. It asks for 8 ECTS of maths/statistics and 6 of computer science — and **publishes a free video preparatory course to make that up.** Given that the job title on your contract is what decides your visa (deliverable 6), a data-titled master's at €727/year is arguably the strongest single card in this whole report. Look at both.
+
+**Risks.** The medium-of-instruction letter must attest **English** competence, and your degree was taught in French and Arabic — so it may not work for you. **Email Kufstein and ask before you count on it**, and book IELTS anyway. Separately, do not assume "Austria" is cheap: fees across Austrian applied-sciences institutions range from €363 to €8,250 per semester, and MCI Innsbruck at €16,500/year would fail our cost filter outright. The country is not the bargain — *this institution* is.
 
 ### 2. Università di Bologna — GIOCA (Italy)
 

@@ -51,7 +51,10 @@ Plenty of options, and the cheapest degrees in this whole report. But read deliv
 
 | Programme | Where | Cost/yr | Notes |
 |---|---|---|---|
-| **★ FH Kufstein Tirol — MA Digital Marketing** | Austria, applied sciences | **€1,453** | **The best single find in this report.** 100% English. Entry needs only "at least 30 ECTS" in business subjects — **no 180-credit rule exists in Austrian FH law.** English B2 may be met with a **medium-of-instruction letter instead of IELTS**. Deadline **3 March** |
+| **★ FH Kufstein Tirol — MA Digital Marketing** | Austria, applied sciences | **€727** | **The best single find in this report.** 100% English. Entry needs only "at least 30 ECTS" in business subjects — **no 180-credit rule in Austrian FH law.** The **only** Austrian institution accepting a medium-of-instruction letter instead of IELTS (but see the caveat below). Deadline **3 March** |
+| **FH Kufstein — MA Data Science & Intelligent Analytics** | Austria, applied sciences | **€727** | Same fee and entry regime. Prerequisite is 8 ECTS maths/stats + 6 ECTS computer science — and **Kufstein publishes a free video preparatory course to make that up**. The most technical option you can realistically reach, which matters for visa purposes |
+| **Uni Klagenfurt — MSc Media and Convergence Management** | Austria, public | €1,453 | English, 120 ECTS, **no ECTS count in the entry rule**. Gated on **C1 English**, which is a real bar |
+| **FH Salzburg** (various business master's) | Austria, applied sciences | **€727** | Publishes the best-worded entry rule found anywhere: *"an equivalent bachelor programme of at least 3 years duration"* — a pure years test. Downside: the programme pages are German-language |
 | **UW — Digital Business (MA)** | Warsaw, public | €2,500/sem, **€7,500 total** | Digital marketing + e-commerce + analytics. **B2 English met by UW's own free online test.** Entry is a subject test, not GPA ranking |
 | **UTB Zlín — Marketing Communications** | Czechia, public | **≈€2,700** | English. Entry wording names *marketing* as qualifying. Entrance task is a prepared presentation + essay. Recognition costs €39. Deadline 31 May |
 | **MERCURI — UE Katowice** | Poland + 3 countries | €2,000 (**€5,150 total**) | Customer-relationship marketing — **the closest match anywhere to your CRM project.** Triple diploma. **Caution: the only programme found that literally demands "6 semesters and 180 ECTS"** |
@@ -147,7 +150,7 @@ So you don't waste time rediscovering these:
 
 This list is **incomplete, and I would rather tell you than imply otherwise.** The research ran into a hard capacity limit and five streams were cut off before finishing:
 
-1. **Germany and Austria were never systematically swept.** FH Kufstein — the top Direction 2 find — surfaced through a different researcher. **There are almost certainly more Austrian FH programmes as good as it, and nobody has looked.** This is the biggest single gap, and given Austria's strength it is the first thing to fix.
+1. **Austria and Germany have since been swept.** The results are folded in above. Austria yielded 5 programmes in Direction 1, ~12 in Direction 2, **zero in Direction 3**, and 2 compromised ones in Direction 4. Still unverified: FH St. Pölten (site blocked), FH Vorarlberg, and several Austrian public universities.
 2. **The Nordics were never swept for programmes.**
 3. **France is under-sampled for Directions 1 and 2** — about six of roughly thirty IAEs were checked. France is your best-fit country, so this matters.
 4. **Private business schools** were not systematically assessed.

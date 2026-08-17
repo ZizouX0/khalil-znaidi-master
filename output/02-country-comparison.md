@@ -8,7 +8,7 @@
 
 | Country | Tuition (non-EU) | Language for you | 146 issue | Post-study stay | Verdict |
 |---|---|---|---|---|---|
-| **Austria** | **€1,453/yr** | English | **Not counted at all (FH)** | 12 mo → Red-White-Red Card | **Top pick** |
+| **Austria (the right FH)** | **€727/yr** | English | **Not counted at all** | 12 mo → Red-White-Red Card | **Top pick** |
 | **France** | €4,055/yr | French, native | Fine ("Bac+3") | 12 mo APS | **Top pick** |
 | **Italy** | **€157–1,000/yr** with ISEE | English or Italian | Fine ("three years") | ~12 mo | **Top pick** |
 | **Spain** | **≈€1,300 total** | Spanish (Tier B) | Fine ("3 years") | 24 mo, but **no work rights** | Strong, later |
@@ -38,13 +38,38 @@ The only number FH Kufstein publishes is *"at least 30 ECTS"* in marketing, comm
 
 **And the rest lines up:**
 
-- **€726.72 per semester (≈€1,453/year)** — the same fee Austrians pay. No non-EU surcharge.
+- **€363.36 per semester — €726.72 per year** at FH Kufstein, and that is the rate *everyone* pays, third-country nationals included. (Add the ÖH student union fee of about €25/semester.)
 - Taught **100% in English**.
-- English requirement is **B2, satisfiable with a medium-of-instruction letter rather than an IELTS score** at FH Kufstein. Worth confirming for your case, since your degree was taught in French and Arabic — but if it holds for the English-taught programme, it removes your biggest obstacle.
 - Post-study: **12-month job-search permit**, then a **Red-White-Red Card with no points test and no labour-market test**. For someone with a modest GPA, an immigration route that does not score you is worth a great deal.
 - Deadline for non-EU applicants: **3 March**.
 
-**One caution.** Austria does *not* give you a developing-country fee waiver. The regulation that once listed Tunisia was repealed in 2019, and the current list covers only Least Developed Countries — Tunisia is not among them. Aggregator sites still repeat the old list. You pay the standard €726.72.
+### But you must pick the right Austrian institution — the spread is enormous
+
+This is the thing to understand about Austria, and it isn't obvious:
+
+**Austrian applied-sciences institutions each set their own third-country fee policy.** The range across the sector is roughly **23-fold**:
+
+| Institution | Per semester |
+|---|---|
+| **FH Kufstein, FH Salzburg, FH des BFI Wien, CAMPUS 02** | **€363.36** |
+| FH Kärnten | €500 |
+| FH Oberösterreich, FH Joanneum | €726.72 |
+| FH Wiener Neustadt | €850 |
+| FH Technikum Wien | €3,000 |
+| IMC Krems | €6,900 |
+| **MCI Innsbruck** | **€8,250** (≈€16,500/year) |
+
+**Austrian public universities are a different and worse proposition** on all three counts at once. They are governed by a separate law, they **double** the fee for third-country nationals to €726.72 *per semester* (€1,453/year), and — critically — several of them do impose the credit rule the applied-sciences law omits. **IMC Krems prints "minimum 180 ECTS lasting at least six semesters" verbatim. WU Wien requires "at least 180 ECTS with 45 ECTS in business administration."**
+
+So the flexible §4(4) rule is **permissive, not binding** — it allows an institution to be flexible, it does not force it. Check the actual wording on each programme page rather than assuming Austria as a whole is open.
+
+### The English question — one institution, one caveat
+
+**FH Kufstein is the only Austrian institution we found that accepts a medium-of-instruction letter instead of an English certificate.** Everywhere else either demands a test outright, exempts only degrees previously taught in English, or — as at Vienna — accepts such letters only from EU/EEA/Swiss/UK/US/Australian/NZ/Canadian institutions, which structurally excludes Tunisia.
+
+**And there is a soft spot in the Kufstein route.** Its wording asks the letter to attest **English** competence, and your degree was taught in French and Arabic. That may not work for you. **Email Kufstein and ask directly before relying on it** — and book IELTS regardless, because every other option needs it.
+
+**One caution on fees.** Austria does *not* give you a developing-country waiver. The regulation that once listed Tunisia was repealed in 2019 and the current list covers only Least Developed Countries. Aggregator sites still repeat the old list.
 
 ### France — the natural fit, but the money changed
 
@@ -101,7 +126,17 @@ One caution on Belgium: ULiège publishes a **minimum 12/20 average**. You clear
 
 **The UK** is viable through roughly three institutions and no more. Fees run £16,000–30,000 almost everywhere; the exceptions are York St John (£11,800), Wrexham, and Westminster as a stretch. Northern Ireland is **not** the cheap route people assume: Queen's charges international students **£23,000** against £7,700 for locals, and Ulster **£18,310** against £7,490. Add £776/year health surcharge, a £558 visa, and £10,539 to be held for 28 days.
 
-**Germany** should be deprioritised, and not mainly because of your credits. German universities commonly want a 2.5 or "good" grade, and 12–13/20 probably falls short. Fachhochschulen apply the *same* 180-credit rule — often 210. And Studienkolleg cannot help; it is for bachelor's entry only.
+**Germany** should be deprioritised — but we now know precisely why, and it is *not* your credentials.
+
+We managed to query **anabin**, Germany's official recognition database, directly (its public interface doesn't render, but its underlying API does). The results are unambiguous and good news:
+
+- **Université de Sousse is rated H+** — a recognised state institution.
+- **Licence Fondamentale → "Entspricht"** — *equivalent* to a German three-year Bachelor.
+- **Licence Appliquée → "Bedingt vergleichbar"** — conditionally comparable.
+
+**Note what that means: Germany rates the *Fondamentale* HIGHER than the *Appliquée* — the exact reverse of the Dutch verdict.** So there is no single answer to "which licence is better"; it depends entirely on which country you are applying to. Do not carry the Dutch logic into Germany.
+
+What actually blocks you in Germany is the **grade and the language**. A representative case: THM's free English-taught Digital Marketing MSc requires a **2.3 minimum grade, 210 ECTS, and German B1** — three separate walls. Only private schools drop the GPA bar, at private-school prices. Add a **blocked account of €11,904** (€992/month) for the visa. Studienkolleg cannot help; it is for bachelor's entry only.
 
 **The Netherlands depends entirely on your diploma.** If it says *Licence Appliquée*, Dutch applied-sciences (HBO) master's accept you directly, and the pre-master's visa problems are irrelevant because you would not need one. If it says *Licence Fondamentale*, Nuffic rates you a full year below a Dutch bachelor and the country is effectively closed.
 
@@ -116,7 +151,7 @@ One caution on Belgium: ULiège publishes a **minimum 12/20 average**. You clear
 Being straight about the gaps. Five of our research streams were cut short when the research session hit a hard capacity limit:
 
 - **The Nordics** (Sweden, Denmark, Finland) were not swept for programmes. What we know comes indirectly: fees are substantial, Finland's applied universities require **two years of work experience** you do not have, and Denmark offers a free, binding credential assessment.
-- **Germany and Austria** were not swept for programmes. The Austrian findings above come from the applied-sciences and low-tuition sweeps, which is why FH Kufstein is well documented but the rest of the Austrian field is not.
+- **Austria and Germany have since been swept** — the findings above reflect that. Still unverified within Austria: FH St. Pölten's digital marketing master (site blocked), FH Vorarlberg's programme status, and Graz/Innsbruck/Salzburg/MODUL universities individually.
 - **Scholarships** were only partially covered — see deliverable 5 for what survived.
 - **Private business schools** were not systematically assessed.
 - **A second pass on France** (the ~30 IAE network) did not complete, so French Directions 1 and 2 are under-sampled: about six of roughly thirty IAEs were checked.

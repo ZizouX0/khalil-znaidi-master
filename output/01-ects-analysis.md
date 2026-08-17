@@ -171,6 +171,21 @@ It gets worse: we found that **Utrecht does not allow pre-master's students who 
 
 **This is why question 7 on the checklist matters.** Go and read your diploma.
 
+### But do not conclude that one licence is simply "better"
+
+After writing the above we managed to query **anabin**, Germany's official recognition database, directly. Germany's verdict is the **exact reverse** of the Dutch one:
+
+| Your diploma says | Netherlands (Nuffic) | **Germany (anabin)** |
+|---|---|---|
+| **Licence Fondamentale** | 2 years of WO — **a problem** | **"Entspricht"** — *equivalent* to a German 3-year Bachelor |
+| **Licence Appliquée** | 3 years of HBO — fine | "Bedingt vergleichbar" — *conditionally* comparable |
+
+anabin also confirms **Université de Sousse is rated H+**, a recognised state institution.
+
+So whichever licence you hold is an advantage somewhere and a disadvantage somewhere else. There is no bad answer to question 7 — there is only a different map depending on the answer. What matters is knowing which one you have before you choose countries.
+
+(This is moot for Germany in practice — see deliverable 2, where the grade and the German-language requirement block you regardless of how your credential is rated.)
+
 ---
 
 ## Three things that are commonly believed and are wrong
