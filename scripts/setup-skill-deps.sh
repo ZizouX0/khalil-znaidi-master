@@ -40,6 +40,29 @@ pip3 install --no-input \
   anthropic "mcp>=1.1.0,<2" \
   "$PLAYWRIGHT_PIN"
 
+echo "==> Firecrawl CLI (the 10 firecrawl/* skills)"
+if command -v npm >/dev/null 2>&1; then
+  npm install -g firecrawl-cli@1.19.6 --no-audit --no-fund
+
+  # firecrawl-cli 1.19.6 and its bundled `firecrawl` SDK both pin axios 1.15.2,
+  # which issues plain-HTTP (non-CONNECT) requests. An HTTPS_PROXY that only
+  # accepts CONNECT rejects those with "405 Method Not Allowed", so every API
+  # call fails. axios >= 1.16.1 uses CONNECT correctly. Both copies need it --
+  # upgrading only the top-level one leaves the SDK's nested copy in place.
+  CLI_ROOT="$(npm root -g)/firecrawl-cli"
+  for pkg_dir in "$CLI_ROOT" "$CLI_ROOT/node_modules/firecrawl"; do
+    if [ -d "$pkg_dir" ]; then
+      (cd "$pkg_dir" && npm install "axios@^1.16.1" --no-audit --no-fund)
+    fi
+  done
+else
+  echo "    npm not available - skipped"
+fi
+
+# Authenticate by exporting your key; the CLI reads it from the environment:
+#     export FIRECRAWL_API_KEY=fc-...
+# Never commit the key. `firecrawl --status` confirms authentication.
+
 echo "==> Node packages (remembering-conversations tool, optional)"
 TOOL_DIR="$(dirname "$0")/../.claude/skills/remembering-conversations/tool"
 if [ -f "$TOOL_DIR/package.json" ] && command -v npm >/dev/null 2>&1; then

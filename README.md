@@ -58,6 +58,27 @@ Three further fixes:
 renamed `streamablehttp_client` to `streamable_http_client` and dropped the
 `headers=` parameter that `connections.py` depends on.
 
+## Firecrawl
+
+The ten `firecrawl-*` skills drive the `firecrawl` CLI, which the setup script
+installs. Authenticate with your own key — never commit it:
+
+```bash
+export FIRECRAWL_API_KEY=fc-...
+firecrawl --status
+```
+
+`firecrawl-cli` 1.19.6 and its bundled `firecrawl` SDK both pin axios 1.15.2,
+which sends plain-HTTP (non-CONNECT) requests. Behind an HTTPS proxy that only
+accepts CONNECT, every API call fails with `405 Method Not Allowed`. The setup
+script upgrades axios to >= 1.16.1 in *both* copies — upgrading only the
+top-level one leaves the SDK's nested copy in place and the 405 persists.
+
+Two usage notes worth knowing: `download` is an experimental subcommand
+(`firecrawl x download`) and prompts for confirmation, and `crawl` is
+asynchronous — it returns a job ID, so use `--wait` or poll with
+`firecrawl crawl <job-id> --status`.
+
 ## Known issues
 
 - `remembering-conversations/tool` has three pre-existing TypeScript type errors

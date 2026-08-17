@@ -7,3 +7,6 @@ __pycache__/
 
 # Packaged skills
 *.skill
+
+# Firecrawl local cache
+.firecrawl/
