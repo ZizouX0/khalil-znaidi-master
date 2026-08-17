@@ -130,9 +130,19 @@ Brand new, with roughly 12 scholarships plus 12 tuition-free places against an i
 
 ### 12. Stipendium Hungaricum (Hungary)
 
-**Tuition-free + stipend + accommodation**
+**Tuition-free + stipend + accommodation · Closes ~15 January 2027**
 
-Tunisia is a confirmed full-degree partner. The 2027/28 call opens around November 2026. Competitive — apply, don't rely on it.
+**Tunisia holds a 250-place quota** — a large, country-specific allocation, which is why this is realistic rather than a long-shot. Economic Science is eligible.
+
+Be clear-eyed about the stipend: **HUF 43,700 ≈ €110/month** plus about €100 housing. The HUF 200,000 figure circulating online is the *PhD* rate. It covers your fees and a roof, not a comfortable life.
+
+---
+
+## One thing to know before you plan a budget
+
+**Austria — your number one — has no scholarship open to you.** Ernst Mach does not fund full degrees at applied-sciences institutions, and the Erhard Busek scheme (for which Tunisia *is* eligible) is suspended with no further call planned. Cost it as **fully self-funded**.
+
+That is survivable precisely because Kufstein costs €727 a year. But the money has to come from you, your family, or the Tunisian MESRS grant — see deliverable 5, where the single most valuable scheme turns out to be Tunisian and to have a published floor of exactly 12/20.
 
 ---
 

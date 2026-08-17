@@ -72,31 +72,40 @@ Spanish and Italian are equally fast for a French speaker (roughly 13–15 month
 - Read your diploma; confirm you hold it
 - Book and schedule IELTS
 - Request the FSEG attestation and *supplément au diplôme*
+- **Ask FSEG scolarité to tell you when the MESRS overseas-study circular drops** — this is your single best funding source and it is administered through your own faculty
+- **Email FH Kufstein** about the medium-of-instruction letter, since your degree was French-medium
 - Run NARIC Ireland's free check
 - Start Spanish **only if you're targeting 2028**
 - Publish your CRM project properly (see below)
 
 ### October 2026
+- **~Oct: Tunisian MESRS *bourse* and *prêt* circular.** €800/month plus tuition, insurance, permit fees and flight — and its published floor is exactly 12/20, which you meet. **Do not miss this**
 - **~1 Oct: Campus France *Études en France* opens.** Mandatory for French applications. Fee 400 TND. Book the interview early — it can be done in Sousse
+- **~1 Oct: Eiffel campaign opens.** You cannot apply yourself — **ask each French university's international office, in writing, whether they will nominate you**, and ask before their internal selection closes
 - Erasmus Mundus 2027 applications begin opening
 - Sit IELTS if not already done
 
 ### November – December 2026
-- **Stipendium Hungaricum 2027/28 opens (~Nov)**
+- **Stipendium Hungaricum call opens (~Nov)** — Tunisia holds a 250-place quota
 - Erasmus Mundus applications: **SDSI first**, then others
 - Order the French credential evaluation **only if** a target programme requires it — it takes 4–6 months
 - Draft your motivation letters (see the framing advice below)
 
 ### January – March 2027
-- **~15 Jan: Campus France closes.** This is earlier than the universities' own deadlines. Missing it removes France entirely
+- **~8 Jan: Eiffel deposit deadline** — your university must have filed by now
+- **~15 Jan: Stipendium Hungaricum closes**, 14:00 CET
+- **~15 Jan: Campus France closes.** Earlier than the universities' own deadlines. Missing it removes France entirely
 - **Jan–Feb:** most Erasmus Mundus deadlines close
 - **Feb: CLIDE opens** — the latest EMJM window, useful if your IELTS came late
 - **3 Mar: FH Kufstein deadline** — your cheapest and most open option. Do not miss this one
+- **~26 Mar: MAECI (Italy)** — needs a B2 certificate
 
 ### Spring – Summer 2027
 - University decisions arrive
+- **~May: NAWA Banach (Poland)** — Tunisia is explicitly eligible, no field restriction
 - Apply for individual fee exemption in France on means grounds, if admitted
 - **Jun–Aug: ER-GO grant window** (23 Jun – 24 Aug) if you're going to Bologna
+- **~Jul: AECID África-Med (Spain)** — verify the public-employee restriction first
 - Start the visa process. Budget for proof-of-funds requirements — these are large and catch people out
 - Arrange the *ISEE parificato* if Italy
 
@@ -168,7 +177,7 @@ Five research streams were cut short when the session hit a hard capacity limit.
 
 - **Nobody swept Austria properly.** FH Kufstein — your top recommendation — was found incidentally by a researcher working on something else. There are likely other Austrian applied-sciences programmes just as good, and **this is the first gap worth closing.**
 - **France's IAE network is under-sampled** — six of about thirty. France is your best-fit country.
-- **Scholarships are substantially under-covered**, particularly Austria's OeAD, France's Eiffel, and Tunisia's own overseas study grants.
+- **Scholarships have since been researched** and deliverable 5 is now complete. One finding belongs here too: **Austria, your top-ranked destination, has no national scholarship open to you** — Ernst Mach does not fund full FH degrees and the Erhard Busek scheme is suspended. Cost Austria as fully self-funded. At €727/year that is survivable, but do not budget on aid appearing.
 - **No cost-of-living figures anywhere.** Every researcher declined to estimate rather than publish unsourced numbers. You'll need these to budget, and they're easy to find yourself.
 - **The Nordics were never swept** — though on cost they were unlikely to survive anyway.
 - **Most 2027/28 deadlines are unpublished.** Dates here are largely the 2026/27 cycle, used as an indication. **Re-check every deadline before you rely on it.**
