@@ -20,7 +20,10 @@
 | **Hungary** | **€0 + stipend** if funded | English | Unverified | Unverified | Worth one application |
 | **UK** | £11,800–23,000/yr | English | **Doesn't exist** | **18 mo** from Jan 2027 | Three schools only |
 | **Germany** | ~€0–1,500 | German (Tier C) | **Blocked** — and GPA too | 18 mo | Deprioritise |
-| **Norway/Nordics** | Fees now apply | English | Norway fine | Varies | Out on cost |
+| **Denmark (Aalborg)** | €7,450/yr, ~15 full awards | English | **Free binding assessment** | 3 yrs, but 90 hrs/mo | Strong |
+| **Norway (UiA)** | **€5,385/yr** | English | **Fine — assessed by years** | Varies | Reopened |
+| **Finland** | €7,000–10,000/yr net | English | Fine | **2 yrs, any sector — best** | Costlier now |
+| **Sweden** | High | English | Fine | Yes | Funding closed |
 | **Netherlands** | — | English | **Depends on your diploma** | — | See below |
 | **Switzerland** | — | — | **Blocked** | — | Closed |
 
@@ -63,11 +66,13 @@ This is the thing to understand about Austria, and it isn't obvious:
 
 So the flexible §4(4) rule is **permissive, not binding** — it allows an institution to be flexible, it does not force it. Check the actual wording on each programme page rather than assuming Austria as a whole is open.
 
-### The English question — one institution, one caveat
+### The English question — settled, and the answer is that you need the test
 
-**FH Kufstein is the only Austrian institution we found that accepts a medium-of-instruction letter instead of an English certificate.** Everywhere else either demands a test outright, exempts only degrees previously taught in English, or — as at Vienna — accepts such letters only from EU/EEA/Swiss/UK/US/Australian/NZ/Canadian institutions, which structurally excludes Tunisia.
+An earlier draft of this report suggested FH Kufstein might let you skip an English certificate via a medium-of-instruction letter. **We checked the actual wording and it will not work for you.**
 
-**And there is a soft spot in the Kufstein route.** Its wording asks the letter to attest **English** competence, and your degree was taught in French and Arabic. That may not work for you. **Email Kufstein and ask directly before relying on it** — and book IELTS regardless, because every other option needs it.
+Kufstein accepts such a letter only where it *"clearly demonstrates the language competence at **CEFR level B2 or higher**."* A letter from a faculty that taught you in **French and Arabic** demonstrates the opposite. The clause is real, but it is not a route for someone whose degree was not English-medium.
+
+**So: you need IELTS 6.0, TOEFL 72 or PTE 60.** Duolingo is explicitly rejected. Budget for the test and book it — there is no side door here, at Kufstein or anywhere else in Austria. (Vienna accepts such letters only from EU/EEA/Swiss/UK/US/Australian/NZ/Canadian institutions, which structurally excludes Tunisia.)
 
 **One caution on fees.** Austria does *not* give you a developing-country waiver. The regulation that once listed Tunisia was repealed in 2019 and the current list covers only Least Developed Countries. Aggregator sites still repeat the old list.
 
@@ -85,7 +90,28 @@ France remains your most natural destination: you are a native French speaker, t
 
 Exemptions still exist but are now decided case by case on three grounds: your **personal situation, including your means**; holding a **French government scholarship**; or a reciprocity agreement. Two of those you can actively pursue — and a French government scholarship exempts you **automatically**, making it worth far more than its headline value.
 
-There is also a published **reduced rate of €2,633** that nobody advertises. Ask each institution what triggers it.
+*(We earlier suggested asking about a €2,633 "reduced rate". Don't bother — it turns out to be Paris 1's rate for students taking a **second** degree, which doesn't apply to you.)*
+
+### The real financial barrier in France is not the tuition
+
+**On 1 August 2026 the student-visa resource requirement rose from €615 to €877.50 per month** (décret n° 2026-526), now indexed to 47% of the minimum wage and revised annually. It applies to permit **renewals** as well as the first application.
+
+**That means demonstrating roughly €14,500 for year one** — about three and a half times the tuition. If France is your target, this is the number to plan your finances around, not the €3,950.
+
+Cost of living reinforces the point. UNEF's 2025 figures for monthly student costs:
+
+| City | Per month |
+|---|---|
+| **Rennes** | **€1,192** |
+| Nantes | ~€1,212 |
+| Toulouse | ~€1,215 |
+| Lille | ~€1,220 |
+| Montpellier | ~€1,221 (**transport free**) |
+| Bordeaux | ~€1,290 |
+| Lyon | €1,324 |
+| **Paris** | **€1,627** |
+
+Studying in Paris costs about **€4,800 more per year** than Rennes — more than a full year's tuition. Choose the city as deliberately as the programme.
 
 **Three French realities to plan around:**
 
@@ -124,7 +150,9 @@ One caution on Belgium: ULiège publishes a **minimum 12/20 average**. You clear
 
 **Ireland** is strong on cost and post-study rights — Stamp 1G runs **24 months** against the UK's 18 from January 2027. One of our researchers claimed Ireland bars marketing roles from work permits; **we checked the official list and that is wrong.** Only estate agents and conference organisers are excluded from that occupational group. Marketing roles are permit-eligible. There is even a carve-out favouring speakers of non-EEA languages in specialist digital-marketing roles — which describes you.
 
-**The UK** is viable through roughly three institutions and no more. Fees run £16,000–30,000 almost everywhere; the exceptions are York St John (£11,800), Wrexham, and Westminster as a stretch. Northern Ireland is **not** the cheap route people assume: Queen's charges international students **£23,000** against £7,700 for locals, and Ulster **£18,310** against £7,490. Add £776/year health surcharge, a £558 visa, and £10,539 to be held for 28 days.
+**The UK's post-study route is 18 months for you, not two years.** We confirmed the rule verbatim on gov.uk: two years only if you *apply* by 31 December 2026, 18 months from 1 January 2027. Starting in autumn 2027 and graduating in 2028–29, you get **18 months**. Any UK-versus-Ireland comparison must use 18 against Ireland's 24.
+
+**The UK** is otherwise viable through roughly three institutions and no more. Fees run £16,000–30,000 almost everywhere; the exceptions are York St John (£11,800), Wrexham, and Westminster as a stretch. Northern Ireland is **not** the cheap route people assume: Queen's charges international students **£23,000** against £7,700 for locals, and Ulster **£18,310** against £7,490. Add £776/year health surcharge, a £558 visa, and £10,539 to be held for 28 days.
 
 **Germany** should be deprioritised — but we now know precisely why, and it is *not* your credentials.
 
@@ -140,7 +168,19 @@ What actually blocks you in Germany is the **grade and the language**. A represe
 
 **The Netherlands depends entirely on your diploma.** If it says *Licence Appliquée*, Dutch applied-sciences (HBO) master's accept you directly, and the pre-master's visa problems are irrelevant because you would not need one. If it says *Licence Fondamentale*, Nuffic rates you a full year below a Dutch bachelor and the country is effectively closed.
 
-**Norway** looked promising because it explicitly assesses by years of study, which dissolves the credit question. But it introduced fees for non-EEA students, no fee-free institutions remain, and you must prove about €14,600 in funds. It is out on cost, not on eligibility.
+### The Nordics — two reversals since our first draft
+
+Both of these went the opposite way to what we first reported, so read this rather than any earlier summary.
+
+**Finland has closed.** A full-cost tuition law took effect on **1 August 2026**, and — visible only in Finnish — *"from spring 2026, scholarships are no longer granted to incoming fee-liable applicants."* Confirmed independently at Jyväskylä, Oulu and Uniarts. The widely repeated claim that Finnish universities waive 50–100% for non-EU students is now **false**. What survives is early-bird discounts and second-year waivers: net **€7,000–10,000/year**. Finland's applied universities remain closed to you anyway, on the two-year work-experience rule.
+
+**Norway has re-opened.** Norway is repealing the cost-covering requirement after roughly an **80% collapse in international enrolment**, and eight institutions cut their 2026/27 fees. **UiA publishes NOK 63,000/year ≈ €5,385** for its business master's — and Norway's year-based credential rule makes your 146 a clean pass. Norway's real obstacle is **liquidity, not cost**: you must prove **NOK 170,368 ≈ €14,600** in funds, against Finland's €9,600.
+
+**Sweden is closed on funding:** Tunisia is **not** among the Swedish Institute scholarship's 34 eligible countries (Egypt and Morocco are).
+
+**Denmark is the quiet strong option.** Aalborg's MSc in Economics and Business Administration — with Business Data Science and Marketing & Sales tracks — costs **€7,450/year**, and about 15 fully-funded government scholarships (full tuition plus €1,503/month) are awarded by **automatic consideration**. Combined with Denmark's free, legally binding credential assessment, it is the best place in Europe to have a 146-credit question. One caution: Denmark's three-year post-study permit is **not** unrestricted work — 90 hours/month — and converting to a work permit faces a **€74,000** salary floor.
+
+For post-study rights alone, **Finland's two-year, any-sector permit is the best in Europe** — it just costs more to get there now.
 
 **Hungary** is worth exactly one application: Tunisia is a confirmed **Stipendium Hungaricum** partner for full degrees, which covers tuition and adds a stipend and accommodation allowance. The 2027/28 call opens around November 2026. Competitive — apply, don't rely.
 

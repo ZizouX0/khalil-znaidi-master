@@ -4,22 +4,11 @@
 
 ---
 
-## Start here — the two things that matter most
+## Start here
 
-### 1. The best scholarship available to you is Tunisian, and you apply for it at home
+> **A correction to an earlier draft of this document.** We initially led with the Tunisian MESRS overseas grant as your best funding source. **On verification against the actual circular, you are not eligible.** The details are below under "Verified closed" — please read that section, because if you heard about this scheme from us, you should stop planning around it.
 
-The **MESRS *bourse universitaire à l'étranger*** (Tunisian Ministry of Higher Education overseas study grant) is the only scheme we found that covers **living costs, tuition, social cover, insurance, study-permit fees and your flight** in one package.
-
-- **€800/month in the EU** — €600 as a grant, €200 as a loan
-- **Published minimum: exactly 12/20.** You meet it. Most schemes have no published floor and quietly favour much stronger files; this one states its bar and you clear it
-- **Filed through FSEG Sousse** — your own faculty
-- The circular normally appears around **October 2026**
-
-**Watch for that circular. Ask the scolarité now to tell you when it drops.** This is the highest-value single action in this deliverable.
-
-There is also a **MESRS *prêt universitaire à l'étranger*** — the loan version, means-tested on parental income with ten-year repayment. That one is **realistic** rather than a stretch, and works as your backstop if the grant doesn't come through.
-
-### 2. Italy's ISEE is not a scholarship and beats most of them
+### Italy's ISEE is not a scholarship and beats most of them
 
 Italian public universities scale fees to family income. At Bologna, an ISEE at or below **€27,000 means a tuition contribution of zero** — total outlay around **€157/year**, verified from the university's own fee decree. No competition, no panel, no deadline race.
 
@@ -31,7 +20,7 @@ If money is the binding constraint, find out what an *ISEE parificato* would com
 
 | When | What | Type | Odds |
 |---|---|---|---|
-| **~Oct 2026** | **Tunisian MESRS bourse + prêt circular** | Living + tuition + flights | **Stretch / Realistic** |
+| **~Oct 2026** | Tunisian MESRS *prêt* (loan) circular | Loan, means-tested | Worth asking |
 | **~1 Oct 2026** | Eiffel campaign opens · Campus France opens | — | — |
 | **Oct–Dec 2026** | Erasmus Mundus 2027 wave opens | Full funding | Varies |
 | **~Nov 2026** | Stipendium Hungaricum call opens | Full funding | Realistic |
@@ -52,25 +41,27 @@ If money is the binding constraint, find out what an *ISEE parificato* would com
 
 ## The schemes, in detail
 
-### Tunisia — MESRS bourse · **STRETCH** · highest value
+### Tunisia — MESRS *prêt* (the loan, not the grant) · worth asking
 
-Covered above. €800/month in the EU, plus tuition, insurance, permit fees and flight. **12/20 floor, which you meet.** Applied for via FSEG Sousse, circular around October 2026.
+The **grant** is closed to you (see below). The **loan** counterpart may not be — it is means-tested on parental income and repayable over ten years, and its conditions are less restrictive. We have not verified its eligibility rules in the same detail, so treat this as *"ask FSEG scolarité when the circular appears"* rather than as a plan.
 
-### Tunisia — MESRS prêt · **REALISTIC**
+### Stipendium Hungaricum (Hungary) · **REALISTIC** · deadline not yet published
 
-The loan counterpart. Means-tested on parental income, repayable over ten years. Less attractive than a grant but genuinely attainable, and it converts an unaffordable option into an affordable one.
+**Tunisia holds a 250-place quota, of which 130 are for master's** — a large, country-specific allocation, and why this ranks realistic rather than long-shot. Economic Science is an eligible field. Covers tuition entirely, plus dormitory accommodation. *(Quota and stipend both verified.)*
 
-### Stipendium Hungaricum (Hungary) · **REALISTIC** · closes ~15 Jan 2027
+**One correction worth making:** the stipend is **HUF 43,700 ≈ €110/month**, plus about €100/month housing. Figures of HUF 200,000 circulating online are the **PhD** rate. Budget accordingly — this covers your fees and roof, not a comfortable life.
 
-**Tunisia holds a 250-place quota** — that is a large, country-specific allocation, and it is why this ranks realistic rather than long-shot. Economic Science is an eligible field. Covers tuition entirely, plus dormitory accommodation.
-
-**One correction worth making:** the stipend is **HUF 43,700 ≈ €110/month**, plus about €100/month housing. Figures of HUF 200,000 circulating online are the **PhD** rate, not the master's rate. Budget accordingly — this covers your fees and roof, not a comfortable life.
+The **~15 January** deadline is our estimate from the previous cycle; the 2027/28 call is not open yet, so `NOT VERIFIED`. Watch from November.
 
 ### NAWA Banach (Poland) · **REALISTIC** · ~May 2027
 
-**This corrects an earlier finding in this project.** A previous researcher concluded there was no Tunisia-specific scheme for Poland. There is: **Tunisia is explicitly listed (Group 3)** in the Banach programme.
+**This corrects an earlier finding in this project.** A previous researcher concluded there was no Tunisia-specific scheme for Poland. There is: **Tunisia is eligible** for the Banach programme, with **no field restriction**, and a preparatory-course route available.
 
-Tuition exemption plus a stipend, **no field restriction**, and a preparatory-course route is available. Combined with Warsaw's Digital Business master's — where B2 English is met by the university's own free online test — this is one of the better-matched combinations in the report.
+**It pays PLN 2,500/month** — plus a PLN 2,500 travel allowance. (An earlier figure of PLN 1,800 is superseded.) That is a genuinely liveable stipend in Poland, unlike Hungary's.
+
+The "Group 3" classification we cited is `NOT VERIFIED` — the list in circulation looks stale — but Tunisia's eligibility itself is confirmed.
+
+Combined with Warsaw's Digital Business master's, where B2 English is met by the university's own free online test, **this is now one of the two best-matched funding-plus-programme combinations in the report.**
 
 ### Eiffel Excellence (France) · **LONG-SHOT** · institution deposits ~8 Jan 2027
 
@@ -116,7 +107,27 @@ Fully covered in deliverable 4. **SDSI** (no GPA floor, IELTS 5.5, five places r
 
 ## Verified closed — do not spend time on these
 
-Checked and ruled out, so you don't chase them:
+### The Tunisian MESRS *bourse* — closed to you, and worth explaining properly
+
+We got this wrong in a first draft and want to be explicit about why, because it is the kind of scheme people spend months chasing.
+
+Verified against **Circulaire 61/25 of 23 October 2025**, the actual governing document:
+
+| Condition | Reality | You |
+|---|---|---|
+| Grants available for the whole EU | **10 in total** | — |
+| Eligible fields | **Energy transition, Industry 4.0, AI only** — marketing and business appear nowhere | ✗ |
+| Minimum average | **12.5/20**, not the 12/20 we first reported | Borderline at best |
+| Academic record | **No failed or repeated year, ever** | ✗ if any |
+| Age | **≤24 on 1 September** | ✗ |
+| Status | Must be **currently enrolled in year 3 of the licence** — graduates excluded | ✗ |
+| Type of master's abroad | Must be a **research** master's | ✗ |
+
+**You fail at least five of these.** The scheme is designed for a current final-year student, under 24, with an unblemished record, going to do a research master's in a STEM field.
+
+For completeness: the amount is now **€1,000/month** (€800 grant + €200 loan) under a JORT order of 24 July 2026 — the €800 figure still on `best.rnu.tn` is out of date. That doesn't help you, but it means anything you read quoting €800 is stale.
+
+### Everything else checked and ruled out
 
 | Scheme | Why not |
 |---|---|

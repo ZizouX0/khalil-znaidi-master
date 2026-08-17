@@ -20,9 +20,9 @@ Everything else depends on them, and all four are free or cheap.
 
 You can sit it **in Sousse**, for roughly 700 TND. Target **6.5**, which unlocks essentially everything on your shortlist at once. At 6.0 you still have options; at 5.5 you can reach the best Erasmus Mundus target (SDSI).
 
-There is no waiver open to you. Medium-of-instruction exemptions require prior study in English, and yours was in French and Arabic. Don't wait to see whether a programme will let you off — book the test.
+**There is no waiver open to you, and we checked the one that looked promising.** FH Kufstein does accept medium-of-instruction letters — but only where the letter demonstrates *"CEFR level B2 or higher"*, and a letter from a French/Arabic-medium faculty demonstrates the opposite. Kufstein needs **IELTS 6.0 / TOEFL 72 / PTE 60**, and explicitly rejects Duolingo.
 
-*One exception worth checking: FH Kufstein may accept a medium-of-instruction letter for B2. Ask them directly. If it works, it saves you the test for that application — but book IELTS anyway, because everything else needs it.*
+Book the test. Nothing in this report removes that requirement.
 
 ### 3. Email FSEG Sousse
 
@@ -72,14 +72,13 @@ Spanish and Italian are equally fast for a French speaker (roughly 13–15 month
 - Read your diploma; confirm you hold it
 - Book and schedule IELTS
 - Request the FSEG attestation and *supplément au diplôme*
-- **Ask FSEG scolarité to tell you when the MESRS overseas-study circular drops** — this is your single best funding source and it is administered through your own faculty
-- **Email FH Kufstein** about the medium-of-instruction letter, since your degree was French-medium
+- **Budget for the visa resource requirement, not just tuition** — France now needs ~€14,500 demonstrated for year one, Norway ≈€14,600, Finland €9,600. This is the real barrier, and it needs planning months ahead
 - Run NARIC Ireland's free check
 - Start Spanish **only if you're targeting 2028**
 - Publish your CRM project properly (see below)
 
 ### October 2026
-- **~Oct: Tunisian MESRS *bourse* and *prêt* circular.** €800/month plus tuition, insurance, permit fees and flight — and its published floor is exactly 12/20, which you meet. **Do not miss this**
+- **~Oct: Tunisian MESRS circular.** The **grant** is closed to you — verified against Circulaire 61/25, which offers 10 EU places in STEM fields only, caps age at 24, and requires current enrolment in year 3. Ask FSEG about the **loan** version only
 - **~1 Oct: Campus France *Études en France* opens.** Mandatory for French applications. Fee 400 TND. Book the interview early — it can be done in Sousse
 - **~1 Oct: Eiffel campaign opens.** You cannot apply yourself — **ask each French university's international office, in writing, whether they will nominate you**, and ask before their internal selection closes
 - Erasmus Mundus 2027 applications begin opening
@@ -177,7 +176,8 @@ Five research streams were cut short when the session hit a hard capacity limit.
 
 - **Nobody swept Austria properly.** FH Kufstein — your top recommendation — was found incidentally by a researcher working on something else. There are likely other Austrian applied-sciences programmes just as good, and **this is the first gap worth closing.**
 - **France's IAE network is under-sampled** — six of about thirty. France is your best-fit country.
-- **Scholarships have since been researched** and deliverable 5 is now complete. One finding belongs here too: **Austria, your top-ranked destination, has no national scholarship open to you** — Ernst Mach does not fund full FH degrees and the Erhard Busek scheme is suspended. Cost Austria as fully self-funded. At €727/year that is survivable, but do not budget on aid appearing.
+- **Scholarships are now researched and verified.** Two findings belong here: **Austria, your top-ranked destination, has no national scholarship open to you** (Ernst Mach does not fund full FH degrees; Erhard Busek is suspended), so cost it as fully self-funded — survivable at €727/year, but do not budget on aid appearing. And **the Tunisian government grant we initially recommended is closed to you** — see deliverable 5.
+- **Cost-of-living figures now exist** for French cities. Rennes is cheapest at €1,192/month, Paris dearest at €1,627 — a €4,800/year gap, more than a year's tuition. Montpellier has free public transport.
 - **No cost-of-living figures anywhere.** Every researcher declined to estimate rather than publish unsourced numbers. You'll need these to budget, and they're easy to find yourself.
 - **The Nordics were never swept** — though on cost they were unlikely to survive anyway.
 - **Most 2027/28 deadlines are unpublished.** Dates here are largely the 2026/27 cycle, used as an indication. **Re-check every deadline before you rely on it.**

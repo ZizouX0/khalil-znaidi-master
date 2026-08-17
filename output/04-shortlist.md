@@ -20,11 +20,15 @@ Austrian applied-sciences law (*Fachhochschul-Gesetz* §4(4)) defines master's e
 
 Then: **€363.36 per semester — €726.72 a year**, the same rate Austrians pay, plus about €25/semester for the student union. Teaching entirely in English. A **12-month job-search permit** afterwards, and a **Red-White-Red Card with no points system and no labour-market test** — which matters enormously when your GPA is modest, because nothing scores you.
 
-**Best feature:** Kufstein is the **only Austrian institution** that accepts a medium-of-instruction letter in place of an English certificate.
+All of this is **verified**: the fee, the "30 ECTS" wording, the absence of any 180-ECTS rule, and the free preparatory course below. (Add the student union fee, €26.90/semester.)
 
-**And its sister programme may be the better one.** FH Kufstein also runs an **MA Data Science & Intelligent Analytics** at the same fee and under the same entry regime. It asks for 8 ECTS of maths/statistics and 6 of computer science — and **publishes a free video preparatory course to make that up.** Given that the job title on your contract is what decides your visa (deliverable 6), a data-titled master's at €727/year is arguably the strongest single card in this whole report. Look at both.
+**Its sister programme may be the better one.** FH Kufstein also runs an **MA Data Science & Intelligent Analytics** at the same fee and under the same entry regime. It asks for 8 ECTS of maths/statistics and 6 of computer science — and **publishes a free video preparatory course to make that up**. Given that the job title on your contract is what decides your visa (deliverable 6), a data-titled master's at €727/year is arguably the strongest single card in this report. Look at both.
 
-**Risks.** The medium-of-instruction letter must attest **English** competence, and your degree was taught in French and Arabic — so it may not work for you. **Email Kufstein and ask before you count on it**, and book IELTS anyway. Separately, do not assume "Austria" is cheap: fees across Austrian applied-sciences institutions range from €363 to €8,250 per semester, and MCI Innsbruck at €16,500/year would fail our cost filter outright. The country is not the bargain — *this institution* is.
+**Risks.** An earlier draft suggested you might skip the English test here via a medium-of-instruction letter. **We verified the wording and you cannot** — the letter must demonstrate "CEFR level B2 or higher", and a letter from a French/Arabic-medium faculty shows the opposite. **You need IELTS 6.0 / TOEFL 72 / PTE 60; Duolingo is explicitly rejected.**
+
+Second risk: do not assume "Austria" is cheap. Fees across Austrian applied-sciences institutions run from €363 to €8,250 per semester — MCI Innsbruck at €16,500/year fails our cost filter outright. The country is not the bargain; *this institution* is.
+
+Third: the 3 March deadline is confirmed for 2026/27 and has passed. **The 2027 date is not yet published** — watch for it.
 
 ### 2. Università di Bologna — GIOCA (Italy)
 
@@ -38,7 +42,9 @@ Its entry wording is the most 146-proof sentence we found anywhere: *"a Bachelor
 
 **And 25 of its 50 places are reserved for non-EU applicants resident abroad.** No portfolio, no GMAT. Selection is CV (40 points) plus interview (60) — an interview is good for you, because your CRM project is more persuasive in conversation than on a transcript.
 
-With an *ISEE parificato* under €27,000, Bologna's contribution is **zero** and your total outlay is about €157/year.
+With an *ISEE parificato* under €27,000, Bologna's contribution is **zero** and your total outlay is €157.04/year. **Every one of those claims was independently verified** — the degree class, the "any discipline, minimum three years" wording, the 25 reserved places, the fee, and the B2 requirement.
+
+**One condition to understand:** the €157 figure assumes you actually obtain an *ISEE parificato*. Without it you fall onto a different non-EU flat-fee schedule and the economics change completely. Getting that document is the whole game here.
 
 **Risks:** the ISEE paperwork is genuinely demanding — documents must be issued by Tunisian authorities, legalised at the Italian Embassy in Tunis, and translated. Model your family home's valuation at €500/m² before assuming you qualify. And you need an English certificate.
 
@@ -100,13 +106,15 @@ Analytical, strategic and digital marketing, in French, with a **confirmed exemp
 
 **Risk:** ULiège publishes a **minimum 12/20 average**. You clear it by nothing at all. Have a backup.
 
-### 9. IAE Montpellier — M1 e-Marketing (France)
+### 9. iaelyon (Lyon 3) — Master Marketing-Vente (France)
 
-**≈€4,055/year · French · Public**
+**≈€4,055/year · French · Public · M1 entry**
 
-Selects on file **plus an oral interview** — and an interview is where your CRM platform actually lands. Also one of the few French pages that explicitly routes non-EU applicants through Études en France.
+The France sweep has since finished, and this is the best result it found. Entry at **M1** on *"licence ou équivalent (180 crédits)"*, and its stated purpose is training ***"spécialistes de la relation client"*** — customer-relationship specialists. That is a direct description of what you built.
 
-**Caveat:** only about six of France's ~30 IAEs were checked before the research was cut short. There are likely better IAE matches that nobody has looked at yet.
+Two alternatives from the same sweep worth applying to alongside it: **IGR-IAE Rennes M1 Marketing** (formation initiale only, no alternance pathway — the cleanest file) and **IAE Aix**, which admits international students holding bac+3 *"or credits"* — the most 146-friendly wording found anywhere.
+
+**The trap to avoid in France — screen on two things, not one.** IAE Lille, IAE Caen and Paris-Saclay all admit at M1 from a licence with **zero tuition**, and all require a signed French apprenticeship contract before enrolment, which you cannot obtain before you have a visa. A free programme you cannot physically enrol in is worse than a paid one. Check for **M1 entry** *and* **formation initiale**.
 
 ---
 
@@ -142,7 +150,37 @@ Be clear-eyed about the stipend: **HUF 43,700 ≈ €110/month** plus about €1
 
 **Austria — your number one — has no scholarship open to you.** Ernst Mach does not fund full degrees at applied-sciences institutions, and the Erhard Busek scheme (for which Tunisia *is* eligible) is suspended with no further call planned. Cost it as **fully self-funded**.
 
-That is survivable precisely because Kufstein costs €727 a year. But the money has to come from you, your family, or the Tunisian MESRS grant — see deliverable 5, where the single most valuable scheme turns out to be Tunisian and to have a published floor of exactly 12/20.
+That is survivable precisely because Kufstein costs €727 a year — but the money has to come from you or your family. We initially pointed you at a Tunisian government grant here; **on verification you are not eligible for it**, and deliverable 5 explains why in full.
+
+The realistic funded routes are **NAWA Banach in Poland** (PLN 2,500/month, Tunisia eligible, no field restriction), **Aalborg's automatic-consideration awards** in Denmark, and **Erasmus Mundus SDSI**.
+
+---
+
+---
+
+## Three added since the first draft
+
+### Aalborg University (Denmark) — MSc Economics and Business Administration
+
+**€7,450/year · English · Business Data Science or Marketing & Sales tracks**
+
+About **15 fully-funded government scholarships** (full tuition plus €1,503/month) awarded by **automatic consideration** — you don't apply separately. Combined with Denmark's free, legally binding credential assessment, this is the best place in Europe to have a 146-credit question. Denmark's post-study permit allows 90 hours/month rather than full work, and converting to a work permit faces a €74,000 salary floor.
+
+### Universitetet i Agder (Norway) — International Business
+
+**≈€5,385/year · English**
+
+Norway is repealing its cost-covering rule after an ~80% enrolment collapse, and eight institutions have cut fees. UiA is the cheapest verified tuition anywhere in this report, and Norway's year-based credential rule makes your 146 a clean pass. **The catch is liquidity, not cost:** you must prove ≈€14,600 in funds.
+
+### UiA (Norway) — Popular Music: Music Business and Management
+
+**€11,540/year · English · STRETCH**
+
+**The only music-business master's found anywhere in this project that you can enter on the qualifications you actually hold** — it admits on *"a bachelor's degree in economics or equivalent"*. No portfolio, no audition.
+
+This is a real correction to what we told you earlier about Direction 4 being nearly empty. It sits at the top of our cost filter, so it is a stretch — but if the music direction genuinely matters to you, this is the one door that is open.
+
+*(For contrast: Uniarts Helsinki's MA Music Business is a perfect subject fit, selects by essay and interview with no audition and near-irrelevant GPA — and costs €28,000/year with a verified zero-scholarship position. Excluded.)*
 
 ---
 
@@ -152,7 +190,9 @@ That is survivable precisely because Kufstein costs €727 a year. But the money
 
 **Germany.** Enforces six semesters **and** 180 credits, applied-sciences institutions included. But the likelier blocker is your GPA — German universities commonly want a 2.5 or "good", which 12–13/20 probably misses. Studienkolleg cannot help; it's for bachelor's entry.
 
-**Norway and the Nordics.** Norway assesses by years of study, which would have suited you perfectly — but it now charges non-EEA fees with no fee-free institutions left, and requires ~€14,600 in proven funds. Finland's applied universities want two years' work experience you don't have.
+**Finland and Sweden.** Finland closed a door we thought was open: a full-cost tuition law took effect on 1 August 2026 and scholarships are no longer granted to incoming fee-liable applicants — net cost is now €7,000–10,000/year, not zero. Its applied universities also want two years' work experience you don't have. Sweden's only full-funding route is shut to you: **Tunisia is not among the Swedish Institute's 34 eligible countries**, though Egypt and Morocco are.
+
+*(Norway and Denmark have moved the other way and are now on the list above.)*
 
 **Any Italian *Master di I livello*, Spanish *título propio*, or private music academy.** Not state master's degrees. Several would likely fail the degree-level test for the very post-study permit you'd be relying on.
 

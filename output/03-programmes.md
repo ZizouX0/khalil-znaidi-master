@@ -16,6 +16,8 @@ Everything listed is a **genuine master's degree**. Programmes that turned out t
 
 **This is your strongest direction.** It has the most options, the best funding, and by a wide margin the best chance of converting into a work visa. Your CRM project is real evidence for it.
 
+> **A trap specific to France — screen on two things, not one.** IAE Lille, IAE Caen and Paris-Saclay all admit at **M1** from a licence with **zero tuition** — and all require a **signed French apprenticeship contract before enrolment**, which is unobtainable before you hold a visa. A free programme you cannot enrol in is worse than a paid one. Every French entry below is confirmed **M1 entry *and* formation initiale**.
+
 ### Tier A — apply now
 
 | Programme | Where | Cost/yr | Notes |
@@ -59,7 +61,16 @@ Plenty of options, and the cheapest degrees in this whole report. But read deliv
 | **UTB Zlín — Marketing Communications** | Czechia, public | **≈€2,700** | English. Entry wording names *marketing* as qualifying. Entrance task is a prepared presentation + essay. Recognition costs €39. Deadline 31 May |
 | **MERCURI — UE Katowice** | Poland + 3 countries | €2,000 (**€5,150 total**) | Customer-relationship marketing — **the closest match anywhere to your CRM project.** Triple diploma. **Caution: the only programme found that literally demands "6 semesters and 180 ECTS"** |
 | **York St John — MSc Strategic Digital Marketing** | UK | £11,800 (≈£11,210 with early-payment discount) | Entry: 2:2 — you clear it. Has a **February intake** |
-| **IAE Montpellier — M1 e-Marketing** | France, public | ≈€4,055 | Selects on file **plus interview**, where your CRM project counts |
+| **iaelyon (Lyon 3) — Master Marketing-Vente** | France, public | ≈€4,055 | **M1 entry**, *"licence ou équivalent (180 crédits)"*. Trains ***"spécialistes de la relation client"*** — the closest M1-entry CRM master's in France |
+| **IGR-IAE Rennes — M1 Marketing** | France, public | ≈€4,055 | **M1 entry**, "grade Licence (180 ECTS)", **formation initiale only** — no alternance trap. SIM test before the March deadline |
+| **IAE Aix — MSc 1 Management → MSc 2 Marketing & Brand Mgmt** | France, public | €8,400 / 2 yrs | **M1 entry.** Admits international students holding bac+3 ***"or credits"*** — the most 146-friendly wording found anywhere |
+| **IAE Nice — Marketing Digital** | France, public | ≈€4,055 | **M1 entry**, 180 ECTS. Entry test has **no eliminating minimum**, plus jury interview. Nice is the priciest non-Paris city (~€1,370/mo) |
+| **Grenoble IAE — M1 Marketing** | France, public | ≈€4,055 | **M1 entry**, three digital M2 exits |
+| **IAE Montpellier — M1 e-Marketing** | France, public | ≈€4,055 | Selects on file **plus interview**, where your CRM project counts. Montpellier has **free public transport** |
+| **Aalborg — MSc Econ & Business Admin** | Denmark, public | **€7,450** | Business Data Science / Marketing & Sales tracks. ~15 **fully-funded** government scholarships by automatic consideration |
+| **UiA — International Business** | Norway, public | **€5,385** | Cheapest verified tuition in the report. Norway assesses by years, so 146 is fine. Needs ≈€14,600 proven funds |
+| **UEF — Digital Marketing and Analytics** | Finland, public | ≈€7,000 net | A true Direction 1+2 hybrid (€10,000 list) |
+| **ICHEC — Master en gestion** | Brussels, private | **€5,369** | Official 120-ECTS Belgian master, French/English, **no language test requested**, 12-month post-study permit |
 | **Salerno — Digital Marketing (LM-77)** | Italy, public | ISEE-scaled | English curriculum available |
 | **IHECS — Publicité** | Brussels | €5,369 | French |
 
@@ -112,7 +123,8 @@ Thin, but real — and one option here is genuinely excellent.
 
 | Programme | Where | Cost/yr | Notes |
 |---|---|---|---|
-| **★ Bologna — GIOCA (Innovation and Organization of Culture and the Arts)** | Italy, public | **€157–4,080**, realistically **≈€157–1,000 with ISEE** | **Outstanding.** 120 ECTS *laurea magistrale* — a real state degree, not a *Master di I livello*. Taught **entirely in English**. Sits in a **Management** department, so your marketing licence is on-topic. Covers "music and the recording industry". **25 of 50 places reserved for non-EU applicants resident abroad.** No portfolio, no GMAT. Selection: CV (40) + interview (60) |
+| **★ Bologna — GIOCA (Innovation and Organization of Culture and the Arts)** | Italy, public | **€157.04/yr with ISEE ≤€27,000** (max €4,080) | **Outstanding, and fully verified.** 120 ECTS *laurea magistrale* (LM-76) — a real state degree, not a *Master di I livello*. Taught **entirely in English**. Sits in a **Management** department, so your marketing licence is on-topic. Covers "music and the recording industry". **25 of 50 places reserved for non-EU applicants resident abroad.** No portfolio, no GMAT. Selection: CV (40) + interview (60). **The €157 depends on obtaining an *ISEE parificato*** |
+| **★ UiA — Popular Music: Music Business and Management** | Norway, public | **€11,540** | **The only music-business master's in this report you can enter on the qualifications you hold** — admits on *"a bachelor's degree in economics or equivalent"*. No portfolio, no audition. English. At the top of the cost filter, so a stretch |
 | **Ca' Foscari — IMCC** | Venice, public | ISEE-scaled | English. Direction 3/4 hybrid. Admission detail `NOT VERIFIED` (site down) |
 | **ULB — Master en gestion culturelle** | Brussels | **€5,369** | **French** — no language test. 120 ECTS |
 | **UVSQ — MOCA (management route)** | France, public | ≈€250–3,879 | French. Its official *licences conseillées* list literally includes "Gestion" |
@@ -143,17 +155,22 @@ So you don't waste time rediscovering these:
 | **Queen's Belfast (£23,000), Ulster (£18,310)** | Northern Ireland is not the cheap UK route it appears to be |
 | **SGH music-management course** | A *podyplomowe* diploma, not a master's |
 | **Any French *diplôme d'établissement* / DU** | Not a national degree |
+| **Every French *Mastère Spécialisé*, without exception** | CGE's own rules require **Bac+5** (or Bac+4 plus 3 years' experience). You hold Bac+3, so all are structurally out of reach. The MS is a trademark, not a *diplôme national*, and does not confer the *grade de master*. **Warning:** ESART advertises a "Mastère Spécialisé" without CGE membership, on an RNCP registration **expiring 31 Aug 2026** |
+| **Rome Business School, EU Business School, BSBI Berlin, IMB Barcelona** | Accreditation. Rome BS awards a Spanish *título propio*, not an Italian degree; **EU Business School is rated H− by Germany's anabin**; BSBI awards no German degree |
+| **ESSCA** | Requires a 4-year bachelor *or* 3 years' experience |
+| **ISEG** | Its RNCP titles are valid, but no *grade*, no *visa*, not CGE, no AACSB/EQUIS/AMBA, ~€10,150/yr, and its bac+5 tracks are **alternance-only** — unobtainable from abroad |
+| **Uniarts Helsinki MA Music Business** | Perfect subject fit, €28,000/yr, verified **zero** scholarships |
 
 ---
 
 ## What is missing from this list — read this
 
-This list is **incomplete, and I would rather tell you than imply otherwise.** The research ran into a hard capacity limit and five streams were cut off before finishing:
+**Since the first draft, all the interrupted research streams have been completed and a verification pass has been run** over the shortlist — it corrected three material figures. What remains genuinely open:
 
-1. **Austria and Germany have since been swept.** The results are folded in above. Austria yielded 5 programmes in Direction 1, ~12 in Direction 2, **zero in Direction 3**, and 2 compromised ones in Direction 4. Still unverified: FH St. Pölten (site blocked), FH Vorarlberg, and several Austrian public universities.
-2. **The Nordics were never swept for programmes.**
-3. **France is under-sampled for Directions 1 and 2** — about six of roughly thirty IAEs were checked. France is your best-fit country, so this matters.
-4. **Private business schools** were not systematically assessed.
-5. **No cost-of-living figures anywhere.** Every researcher refused to estimate rather than publish unsourced numbers.
+1. **Ten of France's ~30 IAEs were never reached** — Metz, Amiens, Orléans, Limoges, Perpignan, Pau, Savoie, Gustave Eiffel, Brest, Valenciennes. The tool to finish the job is `iae-france.fr/formations/` with its *format* filter. IAE Bordeaux returned a server error and is unverified.
+2. **Austria:** FH St. Pölten (site blocked), FH Vorarlberg, and several public universities are unverified.
+3. **Nordics:** Inland Norway (INN) and USN look like the best remaining leads at roughly NOK 58,200; Aalborg's non-EU deadline is unconfirmed, as is the final Norwegian parliamentary vote on repealing fees.
+4. **Private schools:** NEOMA, Audencia, KEDGE, TBS and Montpellier BS have aggregator figures only; EADA and Vlerick were not reached.
+5. **No music-business sweep in Polish or Hungarian**; Portugal's Universidade Católica pages were down; CIMEA's fees and turnaround remain unverified.
 
-Smaller gaps: no music-business sweep in Polish or Hungarian; Portugal's Universidade Católica pages were down; CIMEA's fees and turnaround are unverified; 2027/28 deadlines are largely unpublished everywhere, so most dates here are the 2026/27 cycle used as an indication.
+**The most important caveat of all: almost every 2027/28 deadline in these documents is unpublished.** GIOCA's listed rounds are March/April 2026 and are **stale**. FH Kufstein's 3 March is confirmed for 2026/27 and has passed. Stipendium Hungaricum's 2027/28 call is not open. **Treat every date here as an indication of *when in the year* to look, not as a deadline to diarise.**
