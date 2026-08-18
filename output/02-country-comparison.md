@@ -8,6 +8,8 @@
 
 | Country | Tuition (non-EU) | Language for you | 146 issue | Post-study stay | Verdict |
 |---|---|---|---|---|---|
+| **Slovakia (EUBA)** | **€0** | English | **Not counted at all** | 9 mo | **Top pick** |
+| **Hungary (Corvinus/BGE)** | €6,600–7,400, **€0 funded** | English | **Strongest verdict found** | Yes | **Top pick** |
 | **Austria (the right FH)** | **€727/yr** | English | **Not counted at all** | 12 mo → Red-White-Red Card | **Top pick** |
 | **France** | €4,055/yr | French, native | Fine ("Bac+3") | 12 mo APS | **Top pick** |
 | **Italy** | **€157–1,000/yr** with ISEE | English or Italian | Fine ("three years") | ~12 mo | **Top pick** |
@@ -17,11 +19,10 @@
 | **Portugal** | €4,000–7,500/yr | English or Portuguese | Fine | Yes | Good |
 | **Poland** | ~€2,500–7,500 total | English (B2 now required) | Fine | 9 mo | Good |
 | **Czechia** | €2,700/yr (or €0 in Czech) | English or Czech (Tier C) | Fine | 9 mo, full access | Fair |
-| **Hungary** | **€0 + stipend** if funded | English | Unverified | Unverified | Worth one application |
 | **UK** | £11,800–23,000/yr | English | **Doesn't exist** | **18 mo** from Jan 2027 | Three schools only |
-| **Germany** | ~€0–1,500 | German (Tier C) | **Blocked** — and GPA too | 18 mo | Deprioritise |
+| **Germany** | **€0–€97/sem** | **English available** | **Credential fine; 23 of 42 set no grade bar** | 18 mo | **Reopened — see below** |
 | **Denmark (Aalborg)** | €7,450/yr, ~15 full awards | English | **Free binding assessment** | 3 yrs, but 90 hrs/mo | Strong |
-| **Norway (UiA)** | **€5,385/yr** | English | **Fine — assessed by years** | Varies | Reopened |
+| **Norway** | €4,975–5,385/yr | English | Fine — assessed by years | Varies | **Closed — funds trap** |
 | **Finland** | €7,000–10,000/yr net | English | Fine | **2 yrs, any sector — best** | Costlier now |
 | **Sweden** | High | English | Fine | Yes | Funding closed |
 | **Netherlands** | — | English | **Depends on your diploma** | — | See below |
@@ -154,46 +155,16 @@ One caution on Belgium: ULiège publishes a **minimum 12/20 average**. You clear
 
 **The UK** is otherwise viable through roughly three institutions and no more. Fees run £16,000–30,000 almost everywhere; the exceptions are York St John (£11,800), Wrexham, and Westminster as a stretch. Northern Ireland is **not** the cheap route people assume: Queen's charges international students **£23,000** against £7,700 for locals, and Ulster **£18,310** against £7,490. Add £776/year health surcharge, a £558 visa, and £10,539 to be held for 28 days.
 
-**Germany** should be deprioritised — but we now know precisely why, and it is *not* your credentials.
+### Germany — reopened, and I had this wrong
 
-We managed to query **anabin**, Germany's official recognition database, directly (its public interface doesn't render, but its underlying API does). The results are unambiguous and good news:
+An earlier version of this report told you Germany was effectively closed on your grade. **That was based on a single programme.** A full sweep has since read **42 German programmes' admission wording in full: 19 impose a bar you miss, 23 publish none at all.** Germany is roughly **50/50**.
 
-- **Université de Sousse is rated H+** — a recognised state institution.
-- **Licence Fondamentale → "Entspricht"** — *equivalent* to a German three-year Bachelor.
-- **Licence Appliquée → "Bedingt vergleichbar"** — conditionally comparable.
+Your grade converts to **German 3.0–3.4** (13/20 → 3.0; 12/20 → 3.3), now verified against Otto-von-Guericke Magdeburg's examination-board conversion table **for Tunisia specifically**. Where a 2.5 cutoff exists you fail; where none is published, it is irrelevant.
 
-**Note what that means: Germany rates the *Fondamentale* HIGHER than the *Appliquée* — the exact reverse of the Dutch verdict.** So there is no single answer to "which licence is better"; it depends entirely on which country you are applying to. Do not carry the Dutch logic into Germany.
+**anabin, Germany's official recognition database, rates Université de Sousse H+**, with *Licence Fondamentale* as **"Entspricht"** — equivalent to a German three-year Bachelor. Note this is the **reverse of the Dutch verdict**, so there is no universally "better" licence; it depends where you apply.
 
-What actually blocks you in Germany is the **grade and the language**. A representative case: THM's free English-taught Digital Marketing MSc requires a **2.3 minimum grade, 210 ECTS, and German B1** — three separate walls. Only private schools drop the GPA bar, at private-school prices. Add a **blocked account of €11,904** (€992/month) for the visa. Studienkolleg cannot help; it is for bachelor's entry only.
+Three programmes combine free-or-near-free tuition, English teaching and no grade bar: **HWR Berlin** (tuition-free, IELTS 6.0, and it closes your credit gap with a third-semester placement), **KU Eichstätt-Ingolstadt** (€88/semester, French A2 required — you're native, dual degree with Toulouse) and **HM München** (€97/semester, selected on a pitch video).
 
-**The Netherlands depends entirely on your diploma.** If it says *Licence Appliquée*, Dutch applied-sciences (HBO) master's accept you directly, and the pre-master's visa problems are irrelevant because you would not need one. If it says *Licence Fondamentale*, Nuffic rates you a full year below a Dutch bachelor and the country is effectively closed.
+**Two German traps.** The Embassy in Tunis requires a ***"Certificat d'admission inconditionnel"***, which collides with the conditional-admission routes some programmes use to bridge 180→210 credits. And under **Vergabeverordnung NRW**, admission-restricted programmes in Cologne, Bonn, Münster and Aachen may reserve as few as **2 places for non-EU applicants**; **Osnabrück, by contrast, reserves 50%.** Ask "what is the non-EU quota?", not only "what is the minimum grade?". Blocked account: **€11,904**.
 
-### The Nordics — two reversals since our first draft
 
-Both of these went the opposite way to what we first reported, so read this rather than any earlier summary.
-
-**Finland has closed.** A full-cost tuition law took effect on **1 August 2026**, and — visible only in Finnish — *"from spring 2026, scholarships are no longer granted to incoming fee-liable applicants."* Confirmed independently at Jyväskylä, Oulu and Uniarts. The widely repeated claim that Finnish universities waive 50–100% for non-EU students is now **false**. What survives is early-bird discounts and second-year waivers: net **€7,000–10,000/year**. Finland's applied universities remain closed to you anyway, on the two-year work-experience rule.
-
-**Norway has re-opened.** Norway is repealing the cost-covering requirement after roughly an **80% collapse in international enrolment**, and eight institutions cut their 2026/27 fees. **UiA publishes NOK 63,000/year ≈ €5,385** for its business master's — and Norway's year-based credential rule makes your 146 a clean pass. Norway's real obstacle is **liquidity, not cost**: you must prove **NOK 170,368 ≈ €14,600** in funds, against Finland's €9,600.
-
-**Sweden is closed on funding:** Tunisia is **not** among the Swedish Institute scholarship's 34 eligible countries (Egypt and Morocco are).
-
-**Denmark is the quiet strong option.** Aalborg's MSc in Economics and Business Administration — with Business Data Science and Marketing & Sales tracks — costs **€7,450/year**, and about 15 fully-funded government scholarships (full tuition plus €1,503/month) are awarded by **automatic consideration**. Combined with Denmark's free, legally binding credential assessment, it is the best place in Europe to have a 146-credit question. One caution: Denmark's three-year post-study permit is **not** unrestricted work — 90 hours/month — and converting to a work permit faces a **€74,000** salary floor.
-
-For post-study rights alone, **Finland's two-year, any-sector permit is the best in Europe** — it just costs more to get there now.
-
-**Hungary** is worth exactly one application: Tunisia is a confirmed **Stipendium Hungaricum** partner for full degrees, which covers tuition and adds a stipend and accommodation allowance. The 2027/28 call opens around November 2026. Competitive — apply, don't rely.
-
----
-
-## What we could not check
-
-Being straight about the gaps. Five of our research streams were cut short when the research session hit a hard capacity limit:
-
-- **The Nordics** (Sweden, Denmark, Finland) were not swept for programmes. What we know comes indirectly: fees are substantial, Finland's applied universities require **two years of work experience** you do not have, and Denmark offers a free, binding credential assessment.
-- **Austria and Germany have since been swept** — the findings above reflect that. Still unverified within Austria: FH St. Pölten's digital marketing master (site blocked), FH Vorarlberg's programme status, and Graz/Innsbruck/Salzburg/MODUL universities individually.
-- **Scholarships** were only partially covered — see deliverable 5 for what survived.
-- **Private business schools** were not systematically assessed.
-- **A second pass on France** (the ~30 IAE network) did not complete, so French Directions 1 and 2 are under-sampled: about six of roughly thirty IAEs were checked.
-
-Cost-of-living figures are missing throughout. Every researcher declined to estimate them rather than publish numbers they could not source, which was the right call but leaves a real gap.

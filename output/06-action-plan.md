@@ -14,15 +14,18 @@ Everything else depends on them, and all four are free or cheap.
 
 **Do you hold the actual diploma, or only a transcript?** This is the one scenario where your 146 credits would be a real problem rather than a bookkeeping artefact — because 180 credits come automatically with the awarded degree. We put this at about 5% likelihood, but it needs confirming, not assuming.
 
-### 2. Book IELTS Academic
+### 2. Book IELTS Academic — and know that it no longer blocks you
 
-**This is the highest-return action available to you.** Three separate researchers reached that conclusion independently.
+Earlier versions of this plan called the missing English test your single binding constraint. **That is no longer true**, and the correction matters for your timetable.
+
+**Three good programmes take you with no English certificate at all:** EUBA Bratislava (free, AACSB, no test at any stage), Corvinus Budapest (triple-accredited, internal entrance exam), and Bergamo (B2 satisfied by 6 ECTS of English in your bachelor's). IHECS Brussels asks only B1, and BGE Budapest accepts IELTS 5.5.
+
+So **you can apply for autumn 2027 while your score is still pending.** Book the test anyway — it opens far more doors for ~700 TND.
 
 You can sit it **in Sousse**, for roughly 700 TND. Target **6.5**, which unlocks essentially everything on your shortlist at once. At 6.0 you still have options; at 5.5 you can reach the best Erasmus Mundus target (SDSI).
 
-**There is no waiver open to you, and we checked the one that looked promising.** FH Kufstein does accept medium-of-instruction letters — but only where the letter demonstrates *"CEFR level B2 or higher"*, and a letter from a French/Arabic-medium faculty demonstrates the opposite. Kufstein needs **IELTS 6.0 / TOEFL 72 / PTE 60**, and explicitly rejects Duolingo.
+**But there is no waiver at most institutions, and the one that looked promising doesn't work.** FH Kufstein does accept medium-of-instruction letters — but only where the letter demonstrates *"CEFR level B2 or higher"*, and a letter from a French/Arabic-medium faculty demonstrates the opposite. Kufstein needs **IELTS 6.0 / TOEFL 72 / PTE 60**, and explicitly rejects Duolingo.
 
-Book the test. Nothing in this report removes that requirement.
 
 ### 3. Email FSEG Sousse
 
@@ -60,7 +63,7 @@ Spanish and Italian are equally fast for a French speaker (roughly 13–15 month
 2. **Your music interest** — Madrid and Barcelona are the European hub of the Latin music market, which is the fastest-growing segment of the global industry.
 3. **Logistics** — you can sit the **DELE B2 in Tunis** for 260 TND, with a published 2026 calendar. The Italian institute's page still shows 2024 dates and no fees.
 
-**Do not learn German, Czech, Polish or a Nordic language.** German takes 22–28 months part-time, and Germany is deprioritised for you anyway on GPA grounds. Czech and Polish take three years or more. The economics never work.
+**Do not learn German, Czech, Polish or a Nordic language.** German takes 22–28 months part-time — and you do not need it: the three open German programmes (HWR Berlin, KU Eichstätt, HM München) are **English-taught**. Czech and Polish take three years or more. The economics never work.
 
 **One honest caveat:** if you end up at Bologna (GIOCA), Italian becomes the more useful language and you should switch. Decide after your admissions results, not before.
 
@@ -72,10 +75,15 @@ Spanish and Italian are equally fast for a French speaker (roughly 13–15 month
 - Read your diploma; confirm you hold it
 - Book and schedule IELTS
 - Request the FSEG attestation and *supplément au diplôme*
+- **Register for the SAT if Slovakia interests you.** Slovakia's €10,000 scholarship ranks foreign applicants on the **SAT result alone** — your GPA is never consulted and no English certificate is required. Minimum 1100. It is the only scholarship found in Europe that screens on something you can go and change.
 - **Budget for the visa resource requirement, not just tuition** — France now needs ~€14,500 demonstrated for year one, Norway ≈€14,600, Finland €9,600. This is the real barrier, and it needs planning months ahead
 - Run NARIC Ireland's free check
 - Start Spanish **only if you're targeting 2028**
 - Publish your CRM project properly (see below)
+
+### Urgent — before December 2026
+- **1 December 2026: INN Norway deadline** — the earliest hard date found anywhere (though see the Norway funds warning in deliverable 4)
+- **Early November 2026: file Denmark's free credential assessment** — it takes 1–2 months and Aalborg's **non-EU deadline is 15 January**, not the 1 March date published for EU applicants
 
 ### October 2026
 - **~Oct: Tunisian MESRS circular.** The **grant** is closed to you — verified against Circulaire 61/25, which offers 10 EU places in STEM fields only, caps age at 24, and requires current enrolment in year 3. Ask FSEG about the **loan** version only
