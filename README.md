@@ -42,6 +42,12 @@ Read them in order. Each is written for the student directly, in plain language.
 | 4 | **Tuition is rarely the barrier. The visa deposit is** — €14,500 France, €14,600 Norway, €11,904 Germany |
 | 5 | **Music marketing barely exists** as an affordable accredited European master's. Fifteen independent sweeps found two options on the continent |
 
+### The raw research
+
+The deliverables are **about 9% of what the research produced** — 15,000 published words against 175,000 gathered. Everything compressed out is preserved in **[`research/`](research/)**: source URLs, check dates, the exact admission wording quoted from each university, per-city living costs, and each agent's own statement of what it searched and found nothing on.
+
+**Start there if you want to check a figure, extend the search, or see why a conclusion was reached.** The three most useful files are the verification pass and the two contradiction records, because those are where claims were overturned — including one this project had led with.
+
 ### How it was researched, and where the limits are
 
 Roughly 25 research agents across a phased plan: a credential-eligibility gate first, then one agent per country, thematic sweeps (Erasmus Mundus, scholarships, music, language pathways, applied sciences, job market), an independent verification pass, and consolidation.
@@ -65,8 +71,9 @@ Every file in this repository, and what it is for.
 |---|---|
 | **`README.md`** | This file — the guide to everything below |
 | **`.gitignore`** | Excludes `node_modules/`, `__pycache__/`, packaged `*.skill` bundles and the `.firecrawl/` cache. The Firecrawl CLI itself warns when this last one is missing |
-| **`output/`** | The master's research — all six deliverables plus Excel and PDF versions |
+| **`output/`** | The finished deliverables — six documents plus Excel and PDF versions |
 | **`scripts/`** | Two utilities: environment setup and skill validation |
+| **`research/`** | **The 37 raw research reports** behind the deliverables — every source URL, check date, quoted admission rule and coverage statement. See [`research/README.md`](research/README.md) |
 | **`.claude/skills/`** | The 60 Agent Skills |
 
 ### `output/` — the research
