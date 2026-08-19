@@ -28,7 +28,7 @@ Read them in order. Each is written for the student directly, in plain language.
 
 | File | Notes |
 |---|---|
-| **[output/masters-research.xlsx](output/masters-research.xlsx)** | 7 sheets covering **all 81 programmes**. The **Cost calculator** is live — tuition, duration and living costs are inputs, totals are formulas, so changing an assumption updates the comparison. 99 formulas, zero errors |
+| **[output/masters-research.xlsx](output/masters-research.xlsx)** | 7 sheets covering **all 81 viable programmes plus the 83 that were checked and rejected**. The **Cost calculator** is live — tuition, duration and living costs are inputs, totals are formulas, so changing an assumption updates the comparison. 99 formulas, zero errors |
 | **[output/pdf/masters-research-full-report.pdf](output/pdf/masters-research-full-report.pdf)** | All six documents as one 36-page report with a cover |
 | **output/pdf/01–06** | The six documents as individual PDFs |
 
@@ -99,7 +99,7 @@ Every file in this repository, and what it is for.
 | **Countries** | All 25 countries assessed — tuition, language, 146 stance, post-study rights, visa deposit and verdict |
 | **Funding** | Every scheme by deadline, with odds — plus the verified-closed list and why each fails |
 | **Action plan** | The timeline as a checklist, with a blank "Done?" column |
-| **Excluded** | Everything checked and rejected, with the reason — so nothing gets rediscovered |
+| **Excluded** | **83 institutions and programmes checked and rejected**, each with the reason and a category (grade bar, alternance trap, degree level, cost, accreditation…). Filterable. This is the other half of the picture — 81 passed the filters, these did not |
 
 ### `output/pdf/` — all seven files
 
