@@ -28,7 +28,7 @@ Read them in order. Each is written for the student directly, in plain language.
 
 | File | Notes |
 |---|---|
-| **[output/masters-research.xlsx](output/masters-research.xlsx)** | 7 sheets. The **Cost calculator** is live — tuition, duration and living costs are inputs, totals are formulas, so changing an assumption updates the comparison. 33 shortlist rows, 99 formulas, zero errors |
+| **[output/masters-research.xlsx](output/masters-research.xlsx)** | 7 sheets covering **all 81 programmes**. The **Cost calculator** is live — tuition, duration and living costs are inputs, totals are formulas, so changing an assumption updates the comparison. 99 formulas, zero errors |
 | **[output/pdf/masters-research-full-report.pdf](output/pdf/masters-research-full-report.pdf)** | All six documents as one 36-page report with a cover |
 | **output/pdf/01–06** | The six documents as individual PDFs |
 
@@ -88,8 +88,8 @@ Every file in this repository, and what it is for.
 |---|---|
 | **Read me** | How to use the workbook, what the tiers and verdicts mean, and the three things to read first |
 | **Cost calculator** | 33 shortlisted programmes. **Blue cells are inputs, black are live formulas** — change tuition, duration or living cost and the totals recalculate. Yellow cells are where no official cost-of-living figure exists |
-| **All programmes** | The full list with direction, tier, institution type, language, cost, entry wording and notes |
-| **Countries** | The country comparison as a filterable table |
+| **All programmes** | **All 81 programmes** — direction, tier, institution type, language, tuition, the exact entry wording, the 146 verdict and notes. 36 in Direction 1, 35 in Direction 2, 2 in Direction 3, 8 in Direction 4 |
+| **Countries** | All 25 countries assessed — tuition, language, 146 stance, post-study rights, visa deposit and verdict |
 | **Funding** | Every scheme by deadline, with odds — plus the verified-closed list and why each fails |
 | **Action plan** | The timeline as a checklist, with a blank "Done?" column |
 | **Excluded** | Everything checked and rejected, with the reason — so nothing gets rediscovered |
